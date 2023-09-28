@@ -14,7 +14,7 @@ Python Setup
   pip3 install tink
   ```
 
-3. Feed the parameters for the command as follows: <br />
+3. Feed the parameters for the command as follows:
   ```
   python3 cse_bulk_upload.py
   -scanPath="path_to_folder_to_scan"
